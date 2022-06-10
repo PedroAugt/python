@@ -31,5 +31,5 @@ elif(adulto):
     print(" Voce e adulto")
 else:
     print(" Voce e Idoso")
-print("\n", "Voce nasceu em", anoquenasceu, "\n")
+print("\n", "   Voce nasceu em", anoquenasceu, "\n")
 print("***************************************************", "\n")
